@@ -58,7 +58,7 @@ curl -o three.min.js https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.
 
 ### Step 4: Generate SSL Certificates
 
-**⚠️ HTTPS is required for WebXR to work on Meta Quest devices.⚠️**
+**⚠️ HTTPS is required for WebXR to work on devices.⚠️**
 
 Self-Signed Certificates (Recommended for local development)
 
