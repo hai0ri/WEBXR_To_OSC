@@ -165,7 +165,7 @@ Arguments: [x, y, z, yaw°, pitch°, roll°, button_state]
 
 ### Max/MSP
 ```pd
-[udpreceive -u -b 7400]
+[udpreceive 7400]
 |
 [unpack f f f f f f]
 ```
